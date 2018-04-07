@@ -7,7 +7,8 @@ Baobab is constructed by starting with the pseudo-JSE model (350 companies) and 
 
 At each day, the price of each (the JSE and Baobab) are obtained by summing the value of stocks registered with each. Then two simulated buying scenarios are created:
 
-    Dollar-cost averaging: 30x R10,000.00 = R300k investment
-    Single-shot R300k innvestment on Day 1
+* Dollar-cost averaging: 30x R10,000.00 = R300k investment
+
+* Single-shot R300k innvestment on Day 1
 
 The performance of these is analyzed over an approximate 5 year period, starting in 2013, and plotted against one another.
