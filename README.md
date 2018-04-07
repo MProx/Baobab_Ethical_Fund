@@ -14,6 +14,12 @@ At each day, the price of each (the JSE and Baobab) are obtained by summing the 
 
 The performance of these is analyzed over an approximate 5 year period, starting in 2013, and plotted against one another.
 
+The following image shows the comparison charts for the R300k single-shot investment performances for the five-year period, indicating that the fund would, in fact, have out-performed the JSE over the last five years.
+
+![Comparison plot](https://raw.githubusercontent.com/MProx/Baobab_Ethical_Fund/master/ComparisonPlot.png)
+Format: ![Comparison Plot](url)
+
+
 ### Usage instructions:
 The model is presented in .ipynb format, to be opened using Jupyter Notebook.
 The following libraries are required to run the Python 3.5 code:
