@@ -6,7 +6,7 @@ Passive investment funds are a popular financial instrument, however the compani
 
 A list of JSE-listed companies is imported. Some companies are removed due to missing historical data. The Baobab ethical fund is compared to these companies, as well as the JSE as a whole to confirm that the missing company data doesn't affect the prediction. When making the comparisons between the pseudo-JSE and the Baobab fund, each is modeled as an equal-weighted fund in the absense of information about numbers of shares available for each company. The actual JSE all-share price, however, takes the number into account. As such, the pseudo-JSE (calculated as an equal fund) and actual JSE all-share price are shown on each chart for comparison.
 
-Baobab is constructed by starting with the pseudo-JSE model (350 companies) and removing a further 60 companies that are deemed to not meet the ethical criteria for inclusion.
+Baobab is constructed by starting with the pseudo-JSE model (350 companies) and removing a further 60 companies that are deemed to not meet the ethical criteria for inclusion. In this case, they are hand-selected by the client. The selection criteria are not the subject of this model.
 
 At each day, the price of each (the JSE and Baobab) are obtained by summing the value of stocks registered with each. Then two simulated buying scenarios are created:
 * Dollar-cost averaging: 30x R10,000.00 = R300k investment
